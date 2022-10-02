@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning : C++, C#, python, ruby, flutter, react native, js/css/html, php, java, vb
 - 💬 Ask me about : anything
-- 📫 How to reach me: valgul#8329 (260706120086192129)
+- 📫 How to reach me: on discord valgul#8329 (260706120086192129) or on signal valgul
 
 - About me : 
 A French guy that loves video game, cybersecurity, dev, and other computer science thing, and watch manga and read anime
