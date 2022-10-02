@@ -1,6 +1,6 @@
 ### Hi there
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValgulNecron)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
 
 
 - 🌱 I’m currently learning : C++, C#, python, ruby, flutter, react native, js/css/html, php, java, vb
