@@ -1,6 +1,8 @@
 ### Hi there
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgulnecron&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valgulnecron&langs_count=8&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🌱 I’m currently learning : C++, C#, python, ruby, flutter, react native, js/css/html, php, java, vb
