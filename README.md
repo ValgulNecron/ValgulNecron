@@ -1,8 +1,10 @@
 ### Hi there
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgulnecron&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgulnecron&show_icons=true&theme=radical&count_private=true&border_radius=50)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valgulnecron&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valgulnecron&theme=radical&border_radius=50)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ValgulNecron&theme=radical&border_radius=50)]
 
 
 
