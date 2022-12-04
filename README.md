@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valgulnecron&layout=compact&border_radius=50&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ValgulNecron&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ValgulNecron&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_radius=50)
 
 - About me : 
 A French guy that loves video game, cybersecurity, dev, and other computer science thing, and watch manga and read anime
