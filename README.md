@@ -15,9 +15,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=valgulnecron&theme=merko&border_radius=50&background=1E1E2E&border=F5E0DC&stroke=F5E0DC&ring=94E2D5&fire=F5C2E7&currStreakNum=CBA6F7&sideNums=94E2D5&currStreakLabel=CDD6F4&dates=CDD6F4&sideLabels=CDD6F4)](https://git.io/streak-stats)
 
 - About me : 
-A French guy that loves video game, cybersecurity, dev, and other computer science thing, and watch manga and read anime
+A French guy that loves video game, cybersecurity, dev, and other computer science thing, and watch manga and read anime.
 Yuri is good for the soul
-Flat is justice
 
 
 
