@@ -20,4 +20,4 @@ Yuri is good for the soul
 
 
 
-![readmeVal](https://count.getloli.com/get/@readmeVal?theme=gelbooru)
+![readmeVal](https://getloli.valgul.moe/get/@readmeVal?theme=gelbooru)
