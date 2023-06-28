@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning : C#, js/css/html, php, java, vb, rust
+- 🌱 I’m currently learning : rust
 - 📫 How to reach me: on discord valgul#8329 (260706120086192129) or on signal valgul
 
 
