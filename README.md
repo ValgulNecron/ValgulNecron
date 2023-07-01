@@ -22,6 +22,6 @@ Yuri is good for the soul
 
 
 
-![readmeVal](https://counter.valgul.moe/get/@readmeValgul?theme=gelbooru)
+![readmeVal](https://counter.valgul.moe/get/@readmeValgul?theme=rule34)
 
 ![](https://waifu.now.sh/type/endpoint)
