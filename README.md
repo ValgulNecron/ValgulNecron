@@ -1,11 +1,8 @@
 ### Hi there
 
 
-
-
-
 - 🌱 I’m currently learning : rust
-- 📫 How to reach me: on discord valgul#8329 (260706120086192129) or on signal valgul
+- 📫 How to reach me: on discord valgul (260706120086192129) or on signal valgul or telegram [https://t.me/valgulnecron](https://t.me/valgulnecron)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgulnecron&show_icons=true&count_private=true&border_radius=50&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
