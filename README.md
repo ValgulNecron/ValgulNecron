@@ -1,8 +1,6 @@
 ### Hi there
 
-
-- 🌱 I’m currently learning : rust
-- 📫 How to reach me: on discord valgul (260706120086192129) or on signal valgul or telegram [https://t.me/valgulnecron](https://t.me/valgulnecron)
+- How to reach me: on discord valgul (260706120086192129) or on signal valgul
 - I know rust, c#, js, html, css, php and vb. I also know how to use docker, linux, windows. And other networking stuff
 
 - About me : 
