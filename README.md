@@ -1,7 +1,7 @@
 ### Hi there
 
 - How to reach me: on discord valgul (260706120086192129) or on signal valgul
-- I know rust, c#, js, html, css, php and vb. I also know how to use docker, linux, windows. And other networking stuff
+- I know rust, c#, c. I also know how to use docker, linux, windows. And other networking stuff
 
 - About me : 
 A French guy that loves video game, cybersecurity, and other computer science thing, and watch manga and read anime. Yuri is good for the soul.
