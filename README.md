@@ -4,7 +4,7 @@
 - I know rust, c#, c. I also know how to use docker, linux, windows. And other networking stuff
 
 - About me : 
-A French guy that loves video game, cybersecurity, and other computer science thing, and watch manga and read anime. Yuri is good for the soul.
+A guy that loves video game, cybersecurity, and other computer science thing, and watch manga and read anime. Yuri is good for the soul.
 
 ![readmeVal](https://counter.valgul.moe/get/@readmeValgul?theme=rule34)
 
